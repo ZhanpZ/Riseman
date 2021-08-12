@@ -1,5 +1,5 @@
 # Riseman
-*Done under Python*
+*Done under Python using Pygame and Sprite*
 
 *Shout out to Youtuber GrandmaCan*
 
