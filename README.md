@@ -8,7 +8,7 @@
 
 ## License
 
-    Copyright [2021] [Zhanping Zeng]
+    Copyright [2021] [ZhanpZ]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
